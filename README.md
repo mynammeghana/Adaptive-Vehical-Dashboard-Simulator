@@ -10,12 +10,12 @@ The system uses embedded programming and automotive communication concepts to si
 
 # Communication Protocols
 
-##  CAN (Controller Area Network)
+- CAN (Controller Area Network)
 
 CAN is an automotive communication protocol used for communication between electronic control units (ECUs).
 
 In this project, CAN communication is used to represent the exchange of vehicle-related information between electronic systems and the dashboard.
-## UART (Universal Asynchronous Receiver Transmitter)
+- UART (Universal Asynchronous Receiver Transmitter)
 
 UART is a serial communication protocol used for transmitting and receiving data.
 
